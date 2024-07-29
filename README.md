@@ -1,2 +1,2 @@
-# selenium webdriver with ruby
+# selenium webdriver tests
  
