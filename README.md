@@ -1,2 +1,2 @@
-# selenium webdriver tests
+# selenium webdriver gem
  
